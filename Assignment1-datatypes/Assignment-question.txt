@@ -1,0 +1,17 @@
+Assignment 1 - 06/05/2026
+
+1. # Answer these 3 questions without typing code. Then type code to check your answer.
+What is the value of the expression 4 * (6 + 5)
+What is the value of the expression 4 * 6 + 5 
+What is the value of the expression 4 + 6 * 5
+2. What would you use to find a number’s square root, as well as its square?
+3.
+Try creating your own variables and storing values into those variables. 
+Print out the values that are stored and also print the datatype of the variables created.
+4. 
+Include an assignment that will add two numbers together (for example 4+5) and then assign the result 
+to a variable.
+Similarly perform all the mathematical operations like Subtraction, Multiplication, Division , floor 
+division , Power , Square root and print out that variables value once it has been assigned a value
+5. Try Printing “*” - in the first line 20 times , second line 30 times and third row 40 times
+6. Try out Examples with various Expression consisting of multiple operators.

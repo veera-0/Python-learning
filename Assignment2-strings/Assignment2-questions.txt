@@ -1,0 +1,25 @@
+1. # Given the string 'hello' give an index command that returns 'e'. Enter your code in the cell below:
+s = 'hello'
+# Print out 'e' using indexing
+2. # Reverse the string 'hello' using slicing:
+s ='hello'
+# Reverse the string using slicing
+3. # Given the string hello, give two methods of producing the letter 'o' using indexing.
+s ='hello'
+# Print out the 'o'
+# Method 1:
+# Method 2:
+4. # Use for, .split(), and if to create a Statement that will print out words that start with 's':
+st = 'Print only the words that start with s in this sentence'
+5. # Write python program that displays stars(*) in right angled triangular form using nested loops
+6. # Write a while loop that starts at the last character in the string 
+and works its way backwards to the first character in the string, printing each letter on a separate line, 
+except backwards.
+7 Convert 1024 to binary and hexadecimal representation
+8. Round 5.23222 to two decimal places
+9.Check if every letter in the string s is lower case
+s = 'hello how are you Mary, are you feeling okay?'
+10.How many times does the letter 'w' show up in the string below?
+s = 'twywywtwywbwhsjhwuwshshwuwwwjdjdid'
+11:Reverse the list below:
+list1 = [1,2,3,4]
