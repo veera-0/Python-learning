@@ -1,0 +1,57 @@
+Problem 1:
+Reverse the list below:
+list1 = [1,2,3,4]
+
+Problem2 :
+Sort the list below:
+list2 = [3,4,2,5,1]
+
+Problem 3:
+[Arise But It Juliet Who already and breaks east envious fair grief is kill light moon pale sick soft sun the 
+through what window with Who yonder what]
+# Write a program to read all the lines or entire data in the object ,
+# and split into a list of words .
+# For each word, check to see if the word is already in a list. 
+# If the word is not in the list, add it to the list. , so at the end we need to get the list which has all 
+unique words only
+# When the program completes, sort and print the resulting words in alphabetical order.
+
+Problem 4:
+ "stephen.marquard@uct.ac.za Sat Jan 5 09:14:16 2008"
+ For the specified string , retrive time and display separately
+
+Problem 5:
+ Write a program to read different values from the user and convert all the values received in to list 
+and then compute average
+
+Problem 6:
+ Write program to receive the input of temperature in Celsius and convert it into Fahrenheit
+
+Problem 7:
+ Write a program to prompt from the user for a score between 0.0 and 1.0. 
+If the score is out of range print an error. If the score is between 0.0 and 1.0, 
+print a grade using the following table:
+Score Grade
+>= 0.9 A
+>= 0.8 B
+>= 0.7 C
+>= 0.6 D
+< 0.6 F
+
+Problem 8:
+ find the largest value in a list [3, 41, 12, 9, 74, 15], construct the program using either for loop or 
+while loop instead of using min and max functions
+
+Problem 9:
+ program that Takes in a credit card number from a common 
+ credit card vendor (Visa, MasterCard, American Express, Discover) 
+ and validates it to make sure that it is a valid number
+
+Problem 10:
+ Enter a string and the program counts the number of vowels in the text. 
+ For added complexity have it report a sum of each vowel found.
+
+Problem 11:
+Write a program to read values with integer datatypes from the user and display them as matrix ,
+And create 2 different matrix .
+Then perform Addition of Matrix as well as Multiplication of 2 matrix and print the resul
