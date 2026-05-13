@@ -1,0 +1,18 @@
+Monday - 11/05/2026
+
+
+String Programming
+1. Python Program to Take in Two Strings and Display the Larger String without Using Built-in Functions
+2. Python Program to Count Number of Lowercase Characters in a String
+3. Python Program to Check if a String is a Palindrome or Not
+4. Python Program to Calculate the Number of Upper Case Letters and Lower Case Letters in a String
+5. Python Program to Accept a Hyphen Separated Sequence of Words as Input and Print the Words in a Hyphen-Separated Sequence after Sorting them Alphabetically
+6. Python Program to Calculate the Number of Digits and Letters in a String
+7. The program to create a stack and allow the user to perform push and pop operations on it
+
+Tuples programming
+In a list of tuples. The task is to extract all tuples which have all elements divisible by K.
+Input : test_list = [(6, 24, 12), (60, 12, 6), (12, 18, 21)], K = 6 
+Output : [(6, 24, 12), (60, 12, 6)] 
+Input : test_list = [(6, 24, 12), (60, 10, 5), (12, 18, 21)], K = 5 
+Output : [(60, 10, 5)]
