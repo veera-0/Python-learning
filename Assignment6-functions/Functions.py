@@ -314,9 +314,7 @@ For example : "The quick brown fox jumps over the lazy do
 '''
 
 def isPangram(st:str) -> bool:
-    # Convert string to lowercase and filter only alphabetic characters
     letters = set(char for char in st.lower() if char.isalpha())
-    # Check if all 26 letters of the alphabet are present
     return len(letters) == 26
 
 
