@@ -1,0 +1,26 @@
+MONDAY - 18/05/2026
+
+Predict the word from a list.
+1. Create a list of 10 words by taking the input from player1, and the rule is , all the words should consist 
+of only characters and no digits or special characters .
+2. Ask the player 2 to guess the word that would be present in the list created by player1. and the 
+player2 should be given only 3 chances to predict the word.
+3. First check in the list whether the word entered by player2 is present , if it is present then ask the 
+player2 to enter the position of the word present in the list .
+4. Give only 2 chances for player2 to predict the position of the word in the list .
+5. If player2 does not predict the word in 3 chances then he should not be asked for predicting the 
+position and he should be declared as 'Game Lost'
+6. If player2 does not predict the position with in given 2 chances then also he should be declared as 
+'Game Lost'
+7. If he predicts both the word and its position within given chances and he should be declared 'Game 
+Won'
+8. The List should be created every time when we execute the program.
+9 . Need to ask both the players as who want to be player1 and player2.
+10 . Player1 will create the list of words and player2 will predict the word.
+11.Also after end of the game ask both the players , whether they wanted to repeat the game once 
+again, if Yes then repeat all the steps from 1 to 10 else exit from the game stating “Thank you”
+Minimum Functions to be created should be , if needed can add more functions
+1. ChoosePlayers()
+2. CreateListWords()
+3.PredictWord()
+4.ResultDeclaration()
